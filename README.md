@@ -1,15 +1,15 @@
-程式名
+創建指令
 =======
 
 
 > 版本： v0.0.0<br />
-> 作者： 姓名 <信箱> (網站)<br />
-> 授權： [授權代碼](http://spdx.org/licenses)
+> 作者： 張本微 <bwaycer@gmail.com> (http://bwaycer.github.io/)<br />
+> 授權： [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/tw/)
 
 
 
 ## 簡介
 
 
-關於本程式描述。
+以爪哇腳本創建用於命令行的指令。
 
